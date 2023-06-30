@@ -1,0 +1,23 @@
+body{
+    font-family: 'PT Serif', serif;
+    
+}
+
+
+.bg-yellow{
+    background-color: #FFC017; 
+    
+}
+.dark-btn{
+    background-color: #191919;
+    border-radius: 20px;
+
+}
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41,41,41,1);
+    
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
